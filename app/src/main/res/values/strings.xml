@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Esame2014</string>
+    <string name="save">Save</string>
+    <string name="errorPrice">Errore campo prezzo</string>
+    <string name="errorEmptyField">Campi vuoti!</string>
+    <string name="name">Nome</string>
+    <string name="city">CIttà</string>
+    <string name="price">Prezzo</string>
+    <string name="newReport">Nuova valutazione</string>
+    <string name="confirm">Conferma</string>
+    <string name="cancel">Annulla</string>
+    <string name="deleteTitle">Vuoi eliminare l\'elemento selezionato?</string>
+</resources>
